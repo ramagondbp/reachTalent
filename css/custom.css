@@ -1,0 +1,128 @@
+/* Custom  CSS Document */
+.display-none{
+display:none;
+}
+.margin-top{
+margin-top:100px;
+}
+.clear{
+clear:both;
+}
+.social-share{
+color:#fff;
+}
+.recent-work-wrap .overlay{
+text-align:justify !important;
+}
+.change-lang ul.social-share{
+margin-top: 2%;
+}
+.change-lang ul.social-share li a{
+width:60px !important;
+}
+
+.change-lang ul.social-share{
+margin-top: 2%;
+}
+.change-lang ul.social-share li a{
+width:60px;
+}
+#main-slider .carousel .item{
+height:450px;
+}
+#main-slider .carousel .item img{
+width:100%;
+}
+.navbar{
+padding:0;
+}
+.navbar-nav{
+margin-top:0;
+padding:0;
+}
+
+.navbar-nav>li {
+margin-left: 5px;
+padding-bottom:0;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+padding-top:7px;
+}
+#main-slider .carousel .carousel-content {
+  margin-top: -20%;
+}
+#main-slider .carousel-content h1{
+text-align:justify;
+}
+#main-slider .carousel-content h2{
+text-align:justify;
+}
+.feature-wrap h2 {
+  margin-top: 13%;
+}
+.login-width{
+width:60px !important;
+}
+.media-body p{
+text-align:justify;
+} 
+.form-control{
+height:36px !important;
+}
+.form-group input[type="checkbox"]{
+height: 20px;
+  width: 20px;
+  position: relative;
+  margin-right: 10px;
+  top: 5px;
+}
+.popup {
+  background-image: url('../images/horizontal-line.png');
+  background-repeat: no-repeat;
+  background-position: 52% center;
+  background-color: #f5f3f3;
+  margin: 0 auto;
+  padding: 2% 3%;
+}
+/*----------- css for popup ---------*/
+#mylogin .modal-content{
+background-image:url(../images/Naturopathic.png);
+background-repeat:no-repeat;
+width:100%;
+
+}
+#mylogin .left-log{
+float:left;
+width:48%;
+}
+#mylogin .right-log{
+width:48%;
+float:left;
+}
+.modal-footer{
+  padding: 8px 20px 8px !important;
+}
+.modal-footer .nav {
+  float: right;
+}
+.modal-footer .nav a{
+  margin: 0;
+  padding: 5px 15px;
+}
+.modal-content{
+background-image:url(../images/popup/pb1.png);
+background-repeat:no-repeat;
+width:100%;
+color: #fff !important;
+  font-family: serif !important;
+
+}
+.modal-content h4{
+color: #fff;
+  font-family: serif ;
+  font-size: 25px;
+}
+.modal-dialog a{
+font-weight:bolder;
+}
+/*---------- popup end --------------------*/
